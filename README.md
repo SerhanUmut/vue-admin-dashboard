@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # vue-admin-dashboard
 A real-world inspired Vue 3 admin dashboard for order and customer management.
-=======
+
 # Vue 3 Admin Dashboard – Order & Customer Management
 
 A professional, real-world inspired **Admin Dashboard** built with **Vue 3** and **TypeScript**.  
@@ -71,4 +70,3 @@ src/
  ├─ stores/         # Pinia stores
  ├─ types/          # TypeScript interfaces
  └─ i18n/           # Localization files
->>>>>>> bbff16f (feat: initialize Vue 3 admin dashboard project)
